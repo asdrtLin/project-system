@@ -40,7 +40,7 @@ export default defineConfig({
       apps: [
         {
           name: 'vue3',
-          entry: '//localhost:7105',
+          entry: 'http://localhost:7105',
         },
       ],
     },
