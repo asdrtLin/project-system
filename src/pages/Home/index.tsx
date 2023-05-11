@@ -11,6 +11,9 @@ const HomePage: React.FC = () => {
       <div className={styles.container}>
         <Guide name={trim(name)} />
       </div>
+      <div>
+        <h1>hhhhhhhh</h1>
+      </div>
     </PageContainer>
   );
 };
